@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /home/wermeson/Documents/wermeson/Nubank/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f9e7f4dab5c1baea42f96afe691f6d04/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/wermeson/.gradle/caches/transforms-2/files-2.1/aedd72d0975525b8ed20b0c0ebaa0e96/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/wermeson/.gradle/caches/transforms-2/files-2.1/3cb9dba22d319f1e37864b99f3a26a94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/90b79a19216f28d4e3416349507692aa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/d83bfa7f9cee72f90eec9526d6f86b66/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/05372d3694f02e6b7014d4da76b2fe08/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/e8a5c38d61411144b952302368618242/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/79cc0d8a56c3a27f4c0f498a3849dfd5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/e47e147a2d2a409d36e2993e5c360486/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/1af974417ca41c286863df26e05383be/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/aa5b66d1f21a55c013a92ae62736d7dc/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/1758127d6e1f9697db35c995abd966af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/06b456293c94f0df6c1619693fb7d928/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/b6fd53efe335102b5bf48fa408e5dff5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/e5d81a98875ed67084ee0504fb5b3eb1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f3cc05abcc6934ef672594607e4c4d2c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/b01a5331c9b05b5b5ddad4edd41f131c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/c0f2480db5112114e24e6cda184d415d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f8c1a06da1130320a6b4eace8747a64a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/2b160d63f941d34ce8d6b5c357a04c25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/5cf354936dfa221c49a583a205dabf0b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/bc0ee4215a8fba0b13f781345d29491d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/ad491ea03540c353ddac1332c47cd9f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/5259293f42b39fb79a3cb910cd9ef840/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/wermeson/.gradle/caches/transforms-2/files-2.1/7c8350322baa66b3cef23815013cf768/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f58d56800fbb6e4f5ed6b0019a0eb31d/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f0326f4e36af37a5e31ec98e81aeb8c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/8f147dc88c5c7841281ea49f67e700a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/6dcf5482dd71fdb00b62899b21088b82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/a093e8b136f3d0dfb9456080642b181d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/7a774a66e65e2dc258e7ebabbb273cb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/ea1170365277677169108adc61513526/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/fff424f5e951a5430e149e36a0bc1eaf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/86dc16be7c7b8eb3643f471e6ce6318f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/cb8306a2bc30509fbe09d7b718f3a4bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/97c774ad6a7a743361fc60e4d3436a7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/ef21974626036c37913acbd86b9f2962/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f9e7f4dab5c1baea42f96afe691f6d04/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f9e7f4dab5c1baea42f96afe691f6d04/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/aa5b66d1f21a55c013a92ae62736d7dc/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/aa5b66d1f21a55c013a92ae62736d7dc/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/wermeson/.gradle/caches/transforms-2/files-2.1/7c8350322baa66b3cef23815013cf768/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/wermeson/.gradle/caches/transforms-2/files-2.1/7c8350322baa66b3cef23815013cf768/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f58d56800fbb6e4f5ed6b0019a0eb31d/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f58d56800fbb6e4f5ed6b0019a0eb31d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/wermeson/.gradle/caches/transforms-2/files-2.1/7c8350322baa66b3cef23815013cf768/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.nubank.MainActivity
+ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /home/wermeson/Documents/wermeson/Nubank/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/wermeson/Documents/wermeson/Nubank/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f9e7f4dab5c1baea42f96afe691f6d04/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f9e7f4dab5c1baea42f96afe691f6d04/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/wermeson/.gradle/caches/transforms-2/files-2.1/aedd72d0975525b8ed20b0c0ebaa0e96/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/wermeson/.gradle/caches/transforms-2/files-2.1/aedd72d0975525b8ed20b0c0ebaa0e96/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/wermeson/.gradle/caches/transforms-2/files-2.1/3cb9dba22d319f1e37864b99f3a26a94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/wermeson/.gradle/caches/transforms-2/files-2.1/3cb9dba22d319f1e37864b99f3a26a94/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/90b79a19216f28d4e3416349507692aa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/90b79a19216f28d4e3416349507692aa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/d83bfa7f9cee72f90eec9526d6f86b66/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/d83bfa7f9cee72f90eec9526d6f86b66/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/05372d3694f02e6b7014d4da76b2fe08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/05372d3694f02e6b7014d4da76b2fe08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/e8a5c38d61411144b952302368618242/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/e8a5c38d61411144b952302368618242/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/79cc0d8a56c3a27f4c0f498a3849dfd5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/79cc0d8a56c3a27f4c0f498a3849dfd5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/e47e147a2d2a409d36e2993e5c360486/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/e47e147a2d2a409d36e2993e5c360486/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/1af974417ca41c286863df26e05383be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/1af974417ca41c286863df26e05383be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/aa5b66d1f21a55c013a92ae62736d7dc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/aa5b66d1f21a55c013a92ae62736d7dc/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/1758127d6e1f9697db35c995abd966af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/1758127d6e1f9697db35c995abd966af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/06b456293c94f0df6c1619693fb7d928/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/06b456293c94f0df6c1619693fb7d928/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/b6fd53efe335102b5bf48fa408e5dff5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/b6fd53efe335102b5bf48fa408e5dff5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/e5d81a98875ed67084ee0504fb5b3eb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/e5d81a98875ed67084ee0504fb5b3eb1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f3cc05abcc6934ef672594607e4c4d2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f3cc05abcc6934ef672594607e4c4d2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/b01a5331c9b05b5b5ddad4edd41f131c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/b01a5331c9b05b5b5ddad4edd41f131c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/c0f2480db5112114e24e6cda184d415d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/c0f2480db5112114e24e6cda184d415d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f8c1a06da1130320a6b4eace8747a64a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f8c1a06da1130320a6b4eace8747a64a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/2b160d63f941d34ce8d6b5c357a04c25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/2b160d63f941d34ce8d6b5c357a04c25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/5cf354936dfa221c49a583a205dabf0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/5cf354936dfa221c49a583a205dabf0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/bc0ee4215a8fba0b13f781345d29491d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/bc0ee4215a8fba0b13f781345d29491d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/ad491ea03540c353ddac1332c47cd9f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/ad491ea03540c353ddac1332c47cd9f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/5259293f42b39fb79a3cb910cd9ef840/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/5259293f42b39fb79a3cb910cd9ef840/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/wermeson/.gradle/caches/transforms-2/files-2.1/7c8350322baa66b3cef23815013cf768/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/wermeson/.gradle/caches/transforms-2/files-2.1/7c8350322baa66b3cef23815013cf768/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f58d56800fbb6e4f5ed6b0019a0eb31d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f58d56800fbb6e4f5ed6b0019a0eb31d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f0326f4e36af37a5e31ec98e81aeb8c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/f0326f4e36af37a5e31ec98e81aeb8c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/8f147dc88c5c7841281ea49f67e700a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/8f147dc88c5c7841281ea49f67e700a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/6dcf5482dd71fdb00b62899b21088b82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/6dcf5482dd71fdb00b62899b21088b82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/a093e8b136f3d0dfb9456080642b181d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/a093e8b136f3d0dfb9456080642b181d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/7a774a66e65e2dc258e7ebabbb273cb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/7a774a66e65e2dc258e7ebabbb273cb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/ea1170365277677169108adc61513526/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/ea1170365277677169108adc61513526/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/fff424f5e951a5430e149e36a0bc1eaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/fff424f5e951a5430e149e36a0bc1eaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/86dc16be7c7b8eb3643f471e6ce6318f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/86dc16be7c7b8eb3643f471e6ce6318f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/cb8306a2bc30509fbe09d7b718f3a4bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/cb8306a2bc30509fbe09d7b718f3a4bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/97c774ad6a7a743361fc60e4d3436a7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/97c774ad6a7a743361fc60e4d3436a7f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/ef21974626036c37913acbd86b9f2962/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/wermeson/.gradle/caches/transforms-2/files-2.1/ef21974626036c37913acbd86b9f2962/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/wermeson/Documents/wermeson/Nubank/android/app/src/debug/AndroidManifest.xml:5:22-75
