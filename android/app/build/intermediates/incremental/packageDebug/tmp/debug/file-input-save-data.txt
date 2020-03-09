@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Mar 08 17:11:15 BRT 2020
+#Sun Mar 08 22:11:09 BRT 2020
 70.path=lib/armeabi-v7a/libfolly_futures.so
 78.base=/home/wermeson/Documents/wermeson/Nubank/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 64.base=/home/wermeson/Documents/wermeson/Nubank/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

@@ -17,7 +17,7 @@ export const Card = styled.View`
   background: #fff;
   border-radius: 4px;
   margin: 0 20px;
-  height: 95%;
+  height: 100%;
   position: absolute;
   left: 0;
   right: 0;
