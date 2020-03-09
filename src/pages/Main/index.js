@@ -10,6 +10,7 @@ import {
   Content,
   Card,
   CardHeader,
+  CardHeaderText,
   CardContent,
   CardFooter,
   Title,
@@ -80,6 +81,7 @@ export default function Main() {
             }}>
             <CardHeader>
               <Icon name="attach-money" size={28} color="#666" />
+              <CardHeaderText>Conta</CardHeaderText>
               <Icon name="visibility-off" size={28} color="#666" />
             </CardHeader>
             <CardContent>
@@ -91,6 +93,7 @@ export default function Main() {
                 Transferência de R$ 55,00 recebida de Werton Fabian Rocha da
                 Silva
               </Annotation>
+              <Icon name="keyboard-arrow-right" size={25} color="#666" />
             </CardFooter>
           </Card>
         </PanGestureHandler>

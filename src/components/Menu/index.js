@@ -30,32 +30,74 @@ export default function Menu({translateY}) {
       </Code>
       <Nav>
         <NavItem>
-          <Icon name="help-outline" size={20} color="#FFF" />
+          <Icon name="help-outline" size={25} color="#FFF" />
           <NavText>Me ajuda</NavText>
+          <Icon
+            name="keyboard-arrow-right"
+            size={20}
+            color="#FFF"
+            style={{marginLeft: 160}}
+          />
         </NavItem>
         <NavItem>
-          <Icon name="credit-card" size={20} color="#FFF" />
+          <Icon name="credit-card" size={25} color="#FFF" />
           <NavText>Pedir função débito</NavText>
+          <Icon
+            name="keyboard-arrow-right"
+            size={20}
+            color="#FFF"
+            style={{marginLeft: 90}}
+          />
         </NavItem>
         <NavItem>
-          <Icon name="person-outline" size={20} color="#FFF" />
+          <Icon name="person-outline" size={25} color="#FFF" />
           <NavText>Perfil</NavText>
+          <Icon
+            name="keyboard-arrow-right"
+            size={20}
+            color="#FFF"
+            style={{marginLeft: 184}}
+          />
         </NavItem>
         <NavItem>
-          <Icon name="attach-money" size={20} color="#FFF" />
+          <Icon name="attach-money" size={25} color="#FFF" />
           <NavText>Configurar conta</NavText>
+          <Icon
+            name="keyboard-arrow-right"
+            size={20}
+            color="#FFF"
+            style={{marginLeft: 107}}
+          />
         </NavItem>
         <NavItem>
-          <Icon name="credit-card" size={20} color="#FFF" />
+          <Icon name="credit-card" size={25} color="#FFF" />
           <NavText>Configurar cartão</NavText>
+          <Icon
+            name="keyboard-arrow-right"
+            size={20}
+            color="#FFF"
+            style={{marginLeft: 102}}
+          />
         </NavItem>
         <NavItem>
-          <Icon name="store" size={20} color="#FFF" />
+          <Icon name="store" size={25} color="#FFF" />
           <NavText>Pedir conta PJ</NavText>
+          <Icon
+            name="keyboard-arrow-right"
+            size={20}
+            color="#FFF"
+            style={{marginLeft: 125}}
+          />
         </NavItem>
         <NavItem>
-          <Icon name="smartphone" size={20} color="#FFF" />
+          <Icon name="smartphone" size={25} color="#FFF" />
           <NavText>Configurações do app</NavText>
+          <Icon
+            name="keyboard-arrow-right"
+            size={20}
+            color="#FFF"
+            style={{marginLeft: 73}}
+          />
         </NavItem>
       </Nav>
       <SignOutButton onPress={() => {}}>
